@@ -38,6 +38,7 @@ Submit the C++ source code file in the GitHub repository, similar to how you sub
 4 2 1 -1 8
 4 -3 4 2 1
 4 1 -1 3 6
+1
 3 2 3 -1
 ```
 

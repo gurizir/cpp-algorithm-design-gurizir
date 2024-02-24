@@ -34,6 +34,7 @@ Submit the C++ source code file in the GitHub repository, similar to how you sub
 ### Input:
 
 ```cpp
+2
 3
 4 2 1 -1 8
 4 -3 4 2 1
